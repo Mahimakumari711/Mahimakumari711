@@ -32,4 +32,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Watch snake eating my github contributions 
-![snake gif](https://github.com/Mahimakumari711/Mahimakumari711/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Mahimakumari711/Mahimakumari711/blob/output/github-contribution-grid-snake-dark.svg)
